@@ -1,3 +1,13 @@
+# GuitarLSTM fork
+
+This is a fork of the GuitarLSTM repository with the following changes:
+
+- A PyTorch implementation of the same neural network has been created.
+- Minor changes to the original TensorFlow version have been implemented (i.e. export to tf-lite and onnx).
+- For simplicity, all implementations have been moved to Jupyter Notebooks.
+
+All changes are subject to the MIT license.
+
 # GuitarLSTM
 
 GuitarLSTM trains guitar effect/amp neural network models for processing
